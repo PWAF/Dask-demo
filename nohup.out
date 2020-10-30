@@ -1,0 +1,34 @@
+[I 01:06:56.536 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/envs/dask-speed/lib/python3.7/site-packages/jupyterlab
+[I 01:06:56.537 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/envs/dask-speed/share/jupyter/lab
+[I 01:06:56.539 LabApp] Serving notebooks from local directory: /home/ubuntu/getting-up-to-speed-with-dask
+[I 01:06:56.539 LabApp] Jupyter Notebook 6.1.1 is running at:
+[I 01:06:56.539 LabApp] http://ip-10-0-0-216:8888/?token=d64189545257188d3c9271ddb7fe6b933bad275c6716d927
+[I 01:06:56.539 LabApp]  or http://127.0.0.1:8888/?token=d64189545257188d3c9271ddb7fe6b933bad275c6716d927
+[I 01:06:56.539 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:06:56.542 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-29823-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-0-216:8888/?token=d64189545257188d3c9271ddb7fe6b933bad275c6716d927
+     or http://127.0.0.1:8888/?token=d64189545257188d3c9271ddb7fe6b933bad275c6716d927
+[C 01:08:06.646 LabApp] received signal 15, stopping
+[I 01:08:06.647 LabApp] Shutting down 0 kernels
+[I 01:08:06.647 LabApp] Shutting down 0 terminals
+[I 01:08:23.908 LabApp] JupyterLab extension loaded from /home/ubuntu/anaconda3/envs/dask-speed/lib/python3.7/site-packages/jupyterlab
+[I 01:08:23.908 LabApp] JupyterLab application directory is /home/ubuntu/anaconda3/envs/dask-speed/share/jupyter/lab
+[I 01:08:23.910 LabApp] Serving notebooks from local directory: /home/ubuntu/getting-up-to-speed-with-dask
+[I 01:08:23.911 LabApp] Jupyter Notebook 6.1.1 is running at:
+[I 01:08:23.911 LabApp] http://ip-10-0-0-216:8888/?token=c7ee98925001e0c687627eb190c406e1a756e51d42cb65b3
+[I 01:08:23.911 LabApp]  or http://127.0.0.1:8888/?token=c7ee98925001e0c687627eb190c406e1a756e51d42cb65b3
+[I 01:08:23.911 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:08:23.914 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-29843-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-0-216:8888/?token=c7ee98925001e0c687627eb190c406e1a756e51d42cb65b3
+     or http://127.0.0.1:8888/?token=c7ee98925001e0c687627eb190c406e1a756e51d42cb65b3
+[I 01:08:46.482 LabApp] Interrupted...
+[I 01:08:46.482 LabApp] Shutting down 0 kernels
+[I 01:08:46.482 LabApp] Shutting down 0 terminals
